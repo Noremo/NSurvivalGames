@@ -3,9 +3,9 @@ NSurvivalGames
 
 A completely customizable Survival Games plugin for the CraftBukkit platform. [WIP!]
 This is a completely customizable plugin. You can change almost everything, ranging from the games main mechanics and messages!
-==============
 
 Changeable settings:
+==============
 
 * Time til deathmatch
 * Messages
