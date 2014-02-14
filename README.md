@@ -33,6 +33,5 @@ Changeable settings:
 * Economy/Points
 * Bars (XP bar for time til game begins/players left/day & time left of day/sector (only applies to "Catching Fire" mode!)/time left til deathmatch and Boss Bar for coords, nearest player, supply chest location)
  and many more..
-==============
 
 Again, these are all planned features, and the plugin is WIP!
