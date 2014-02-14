@@ -5,7 +5,7 @@ A completely customizable Survival Games plugin for the CraftBukkit platform. [W
 ==============
 
 
-* NSurvivalGames *
+* NSurvivalGames 
 
 This is a completely customizable plugin. You can change almost everything, ranging from the games main mechanics and messages!
 ==============
